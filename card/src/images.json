@@ -1,0 +1,20 @@
+{
+    "data": [
+      {
+        "text": "image1",
+        "link": "http://placeimg.com/640/360/nature"
+      },
+      {
+        "text": "image2",
+        "link": "http://placeimg.com/640/360/animals"
+      },
+      {
+        "text": "image3",
+        "link": "http://placeimg.com/640/360/architecture"
+      },
+      {
+        "text": "image4",
+        "link": "http://placeimg.com/640/360/tech"
+      }
+    ]
+  }
